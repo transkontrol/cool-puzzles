@@ -17,8 +17,8 @@
 
 ----
 
-- [ant.ipynb]() - решение на Python 
-- [ant.html]() - скрипт на JavaScript
+- [ant.ipynb](ant.ipynb) - решение на Python 
+- [ant.html](ant.html) - скрипт на JavaScript
 
 После выполнения Python-кода будет создан файлик данных (ant.js) для
  рисования JavaScript-ом. Что бы не плодить сущности, сам JavaScript
